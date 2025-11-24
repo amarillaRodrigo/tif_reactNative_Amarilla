@@ -25,7 +25,7 @@ Una aplicación móvil intuitiva para tomar y organizar notas de estudio con fot
 
 ### 1. Clonar el repositorio
 ```bash
-git clone 
+git clone https://github.com/amarillaRodrigo/tif_reactNative_Amarilla.git
 cd estugrow
 ```
 
